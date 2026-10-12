@@ -4,16 +4,21 @@
 > Everything I learn about Linux, from first commands to running my own systems.
 
 ### `$ cat roadmap.txt`
-- [ ] Navigating the file system (`cd`, `ls`, `pwd`)
-- [ ] Creating, moving and deleting files
-- [ ] File permissions and ownership
-- [ ] Users and groups
+- [x] Navigating the file system (`cd`, `ls`, `pwd`)
+- [x] Creating, moving and deleting files
+- [x] File permissions and ownership
+- [x] Users and groups
 - [ ] Processes and services
 - [ ] Package management
 - [ ] Bash scripting basics
 - [ ] Logs and where to find them
 
 ### `$ ls ./notes`
-*Notes will be added here as I work through each topic.*
+| # | Note |
+|---|---|
+| 01 | [Navigating the file system](./01-navigating-the-file-system.md) |
+| 02 | [Creating, moving and deleting files](./02-creating-moving-deleting-files.md) |
+| 03 | [File permissions and ownership](./03-file-permissions-and-ownership.md) |
+| 04 | [Users and groups](./04-users-and-groups.md) |
 
 [⬅ Back to main](../README.md)
