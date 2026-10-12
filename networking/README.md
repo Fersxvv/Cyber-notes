@@ -4,10 +4,10 @@
 > How computers talk to each other. You can't secure a network you don't understand.
 
 ### `$ cat roadmap.txt`
-- [ ] OSI and TCP/IP models
-- [ ] IP addresses and subnetting
-- [ ] Common ports and protocols
-- [ ] DNS, DHCP and how the internet actually works
+- [x] OSI and TCP/IP models
+- [x] IP addresses and subnetting
+- [x] Common ports and protocols
+- [x] DNS, DHCP and how the internet actually works
 - [ ] TCP vs UDP
 - [ ] Firewalls and network security basics
 - [ ] Packet analysis with Wireshark
