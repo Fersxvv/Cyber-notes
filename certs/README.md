@@ -6,7 +6,7 @@
 ### `$ cat progress.txt`
 | Cert | Status |
 |---|---|
-| *[your current cert]* | 🟡 Studying |
+| *OFFsec Kali* | 🟡 Studying |
 
 ### `$ cat long_term_goal.txt`
 - GIAC Security Expert (GSE)
