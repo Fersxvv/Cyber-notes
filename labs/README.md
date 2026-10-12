@@ -5,7 +5,10 @@
 
 ### `$ cat lab_setup.txt`
 - **Host:** MacBook Pro
-- **VMs:** *[add what you're running here]*
+- **VMs:**
+-         >> Kali <Via UTM>
+-         >> Metaspliot 2 <Via UTM>
+-         >> Docker <Embedded into Kali using UTM>
 
 ### `$ cat writeup_format.txt`
 Each write-up covers:
