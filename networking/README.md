@@ -13,6 +13,11 @@
 - [ ] Packet analysis with Wireshark
 
 ### `$ ls ./notes`
-*Notes will be added here as I work through each topic.*
+| # | Note |
+|---|---|
+| 01 | [OSI and TCP/IP models](./01-osi-and-tcp-ip-models.md) |
+| 02 | [IP addresses and subnetting](./02-ip-addresses-and-subnetting.md) |
+| 03 | [Common ports and protocols](./03-common-ports-and-protocols.md) |
+| 04 | [TCP vs UDP](./04-tcp-vs-udp.md) |
 
 [⬅ Back to main](../README.md)
