@@ -11,6 +11,7 @@
 | [`linux/`](./linux) | Commands, file system, permissions, users, and everything else Linux |
 | [`networking/`](./networking) | How networks work: OSI model, TCP/IP, ports, protocols, subnetting |
 | [`web-security/`](./web-security) | How web apps get attacked and defended: path traversal and more |
+| [`projects/`](./projects) | Tools I'm building myself: failed login detector and more |
 | [`labs/`](./labs) | My home lab setup and write-ups from practice rooms and exercises |
 | [`certs/`](./certs) | Revision notes for the certifications I'm working towards |
 
