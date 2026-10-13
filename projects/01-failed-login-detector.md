@@ -202,7 +202,7 @@ sudo -u "user" "the command"
 
 ## What was I doing?
 
-I needed to make a fake log file on my Mac so my script has something to read. (The ship wifi is awful, so downloading real logs isn't really an option. Also, making your own test data is normal practice because you control what is in it.)
+I needed to make a fake log file on my Mac so my script has something to read. 
 
 ### Making the project folder
 
