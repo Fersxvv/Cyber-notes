@@ -31,6 +31,6 @@
 
 <div align="center">
 
-`Last updated: October 2026` · Built by [Fersx](https://github.com/Fersx)
+`Last updated: October 2026` · Built by [Fersxvv](https://github.com/Fersxvv)
 
 </div>

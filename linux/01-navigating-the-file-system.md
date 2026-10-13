@@ -9,7 +9,7 @@ Linux has one tree that starts at `/` (called "root"). Everything lives under it
 | Path | What's there |
 |---|---|
 | `/` | The top of everything |
-| `/home` | Users' personal folders (`/home/george`) |
+| `/home` | Users' personal folders (`/home/user`) |
 | `/root` | The root user's home folder (not the same as `/`) |
 | `/etc` | System config files |
 | `/bin`, `/usr/bin` | Programs and commands |

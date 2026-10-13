@@ -26,7 +26,7 @@
 
 A line in `/etc/passwd`:
 ```
-george:x:1000:1000:George:/home/george:/bin/bash
+user:x:1000:1000:User:/home/user:/bin/bash
 ```
 `username : x (password is in shadow) : user ID : group ID : description : home folder : shell`
 

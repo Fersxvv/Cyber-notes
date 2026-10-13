@@ -5,7 +5,7 @@
 
 ## Reading `ls -l`
 ```
--rwxr-xr-- 1 george devs 1024 Oct 12 12:00 script.sh
+-rwxr-xr-- 1 user devs 1024 Oct 12 12:00 script.sh
 ```
 | Part | Meaning |
 |---|---|
@@ -13,7 +13,7 @@
 | `rwx` | **Owner** permissions |
 | `r-x` | **Group** permissions |
 | `r--` | **Everyone else** permissions |
-| `george` | The owner |
+| `user` | The owner |
 | `devs` | The group |
 
 ## What the letters mean
@@ -51,8 +51,8 @@ Common ones:
 ## Changing ownership
 | Command | What it does |
 |---|---|
-| `sudo chown george file` | Changes the owner |
-| `sudo chown george:devs file` | Changes owner and group |
+| `sudo chown user file` | Changes the owner |
+| `sudo chown user:devs file` | Changes owner and group |
 | `sudo chgrp devs file` | Changes just the group |
 
 ## Why it matters for security
