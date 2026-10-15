@@ -13,5 +13,6 @@
 |---|---|
 | 01 | [Failed login detector](./01-failed-login-detector.md) |
 | 02 | [Failed login detector - Day 2](./02-failed-login-detector-day2.md) |
+| 03 | [Failed login detector - Day 3](./03-failed-login-detector-day3.md) |
 
 [⬅ Back to main](../README.md)
