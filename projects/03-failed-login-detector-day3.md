@@ -32,9 +32,6 @@ Question 4.
 	Explanation - In a normal failed password line, and is for the correct & valid user. There would not be invalid-user text but if it was an invalid user it would pop up and it would sit after Failed password for…..
 
 
-
-
-
 Day 3
 
 
@@ -42,12 +39,7 @@ What does it print, and how many lines of output?
 		 awk '{print $1}' test_auth.log
 
 
-
 Prediction- In my understanding I think that it will print the likes of line 1, which is in our case the month. Or a smaller abbreviation of the month. So in our case it will be "Aug". It will print 6 lines of "Aug"
-
-
-
-
 
 I ran the command.
 
@@ -64,10 +56,7 @@ Output -
 		user@mac password-test %
 
 
-
-
 AWK research.
-
 
 What do I need to research?
 1. awk has a built-in variable that holds the number of fields on a line. Find its name. It's two or three capital letters.
