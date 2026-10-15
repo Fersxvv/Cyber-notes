@@ -9,7 +9,7 @@
 - **Correction:** the last line isnt a SSH command. Its a message sshd logged when someone disconnected. Commands are what you type. Log lines are what the system writes down.
 
 **1b. Why did I make my own?**
-- So I can test it offline on the ships horrible wifi.
+- So I can test it offline.
 - The reason I missed (twice): because I wrote every line myself I ALREADY KNOW THE RIGHT ANSWER. I know there are 4 failed logins and which IPs they came from. So when the script prints something I can check if its right. On a real log with 40,000 lines I would have no idea. That is why test data exists.
 
 **2. grep vs grep -c**
