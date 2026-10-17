@@ -18,7 +18,6 @@ Question 2.
 									Example: word word word                                       											Example: 4
 											word word word
 
-
 Question 3.
 	Counting backwards helps a lot better because the last 4 of any access, failed password and or invalid user log will always have a IP port and the ssh2 at the end. So if we counted from the back in most cases it will always print 4, to capture the IP. If we counted forwards (normal counting) we would hit an error or something we are not looking for. So that's why counting backwards is always better if we are wanting to capture the IP or the port as it will always be in the same space.
 
